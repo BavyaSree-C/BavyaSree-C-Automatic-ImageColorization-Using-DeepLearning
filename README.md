@@ -1,0 +1,7 @@
+# Automatic-Image-Colorization-Using-Deep-Learning
+
+STUDENT NAME: BAVYA SREE CHINNASAMY
+AICTE ID: STU66558d26c9aa51716882726
+ZIMBRA ACCOUNT: bavyasreechinnasamy03@edunetmail.com
+UNIVERSITY NAME: BHARATHIAR UNIVERSITY
+
